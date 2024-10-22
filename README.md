@@ -34,7 +34,6 @@ second-order-system-analysis/
 │
 ├── app                     # Folder containing the main application
 ├── README.md               # Project documentation
-├── requirements.txt        # List of dependencies
 └── requirements.txt        # List of dependencies
 ```
 
